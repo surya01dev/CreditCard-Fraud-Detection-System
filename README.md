@@ -4,7 +4,7 @@ A Machine Learning-based web application built using Streamlit that detects frau
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png) 
+![Dashboard](dashboard.png)
 
 ## 🚀 Features
 
@@ -40,11 +40,13 @@ A Machine Learning-based web application built using Streamlit that detects frau
 Credit Card Fraud Detection Dataset
 
 Features:
+
 - Time
 - V1 to V28
 - Amount
 
 Target:
+
 - Class (Fraud / Genuine)
 
 ## ▶️ Run Locally
@@ -52,11 +54,3 @@ Target:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-```
-
-
-
-## Author
-
-Priyanshu Jaglan
-B.Tech CSE (AI)
